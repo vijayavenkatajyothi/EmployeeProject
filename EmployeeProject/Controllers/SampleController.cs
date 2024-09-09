@@ -60,5 +60,10 @@ namespace EmployeeProject.Controllers
         //    //}
         //}
 
+
+        public void GetAllEmployeeDetails()
+        {
+            Console.WriteLine("Employee Data");
+        }
     }
 }
